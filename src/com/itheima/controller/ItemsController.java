@@ -11,7 +11,7 @@ import com.itheima.pojo.Items;
 
 @Controller
 public class ItemsController {
-	//github+22
+	//github+22+22
 	//指定url到方法的映射
 	@RequestMapping("/list")
 	public ModelAndView itemsList()throws Exception{
